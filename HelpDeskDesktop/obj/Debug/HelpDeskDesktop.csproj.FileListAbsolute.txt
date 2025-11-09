@@ -1,0 +1,14 @@
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\bin\Debug\HelpDeskDesktop.exe.config
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\bin\Debug\HelpDeskDesktop.exe
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\bin\Debug\HelpDeskDesktop.pdb
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.csproj.AssemblyReference.cache
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.LoginForm.resources
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.Properties.Resources.resources
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.csproj.GenerateResource.cache
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.csproj.CoreCompileInputs.cache
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.exe
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.pdb
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDeskDesktop.exe.config
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faria\source\repos\HelpDeskDesktop\HelpDeskDesktop\obj\Debug\HelpDesk.65A47761.Up2Date
